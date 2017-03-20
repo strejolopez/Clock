@@ -1,0 +1,14 @@
+body {
+	background-image: url("../clockimg/clockwp.jpg");
+}
+#clock {
+	background-color: ;
+	width: 600px;
+	height:100;
+	font-size: 100px; 
+	font-weight: bold;
+	font-family: Papyrus,fantasy;
+	margin: 360px 320px;
+	text-align: center;
+	color: white;
+}
